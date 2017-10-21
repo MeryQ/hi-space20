@@ -1,7 +1,13 @@
+index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
+    <title>Mi nuevo repositorio</title>
 </head>
+ <body>
+    <p>MI primer intento</p>
+
+</body>
+
 
 </html>
